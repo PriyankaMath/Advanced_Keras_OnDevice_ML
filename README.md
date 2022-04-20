@@ -1,4 +1,4 @@
-# Assignment 5: Advanced Keras and Intro to edge ML
+# Advanced Keras and Intro to edge ML
 
 ## Part 1: Advanced Keras Deep Learning Constructs
 
